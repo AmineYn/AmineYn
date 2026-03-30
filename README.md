@@ -1,16 +1,22 @@
 ## Hi there 👋
+Introducing Myself as a Duck 🦆  
+a CS Student who loves understanding how things work, how complex systems are built, and experimenting with them.  
 
-<!--
-**AmineYn/AmineYn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Programming Languages
+[![Langs](https://skillicons.dev/icons?i=luau,c,php,python)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Currently Learning
+[![Langs](https://skillicons.dev/icons?i=luau,c,php,python)](https://skillicons.dev)
+
+---
+
+### Tools & FOSS
+[![Tools](https://skillicons.dev/icons?i=anaconda,git,vscode,laravel,roblox,cpanel)](https://skillicons.dev)
+
+---
+
+✨ Fun fact: I think like a duck — calm on the surface, paddling like crazy under the water to make things work.  
