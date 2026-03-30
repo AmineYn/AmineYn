@@ -2,7 +2,7 @@
 
 # Hi there 👋  
 **Introducing Myself as a Duck 🦆**  
-A CS Student who loves understanding how things work, exploring complex systems, and experimenting with them.  
+A CS Student who loves exploring how things work under the hood, understanding complex systems, and experimenting with them.  
 
 ---
 
@@ -17,10 +17,10 @@ A CS Student who loves understanding how things work, exploring complex systems,
 ---
 
 ### 🛠️ Tools & FOSS
-[![Tools](https://skillicons.dev/icons?i=anaconda,git,vscode,laravel,roblox,cpanel,windows)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=anaconda,git,vscode,laravel,robloxstudio,mysql,windows)](https://skillicons.dev)
 
 ---
 
-✨ **Fun fact:** I think like a duck — calm on the surface, paddling like crazy under the water to make things work.  
+✨ **Fun Fact:** I’m a duck in disguise — I look calm, but I’m always tinkering under the hood.
 
 </div>
